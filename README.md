@@ -1,3 +1,5 @@
+ReadMe - How did I do the assignment? 
+
 # I created a git repo named "GitAndGithub_by_Asheek"
 ## Then made it public
 ### I then clone that repo to my local machine.The comand code is: git clone https://github.com/AsheekShimul95/GitAndGithub_by_Asheek.git
